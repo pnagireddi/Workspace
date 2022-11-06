@@ -2,7 +2,7 @@ package arrays;
 
 public class Fan {
 	
-	// Concept of object type of arrays this class object is created at Launch9 class there we are initialized.
+	// Concept of object type of arrays this class object is created at Launch1_8 class there we are initialized.
 	
 	String brand;
 	int cost;
