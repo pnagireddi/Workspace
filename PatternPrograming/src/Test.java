@@ -2,9 +2,8 @@
 public class Test {
 
 	public static void main(String[] args) {
-        String s=new String("NAGI");
-       String element=s.toLowerCase();
-        System.out.println(element);
+        String s=new String("Hello");
+        System.out.println(s);
 	}
 
 }
